@@ -50,5 +50,7 @@ Deployed using **GitHub Pages**.
 **Harshit Joshi**
 2nd Year, B.Tech CSIT, AKGEC
 harshitjoshi1507@gmail.com
+<br>
 [GitHub](https://github.com/Harshit-tuf)
+<br>
 [LinkedIn](https://www.linkedin.com/in/harshit-joshi-9a72932bb/)
