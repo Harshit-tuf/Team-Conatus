@@ -48,7 +48,8 @@ Deployed using **GitHub Pages**.
 ## Author
 
 **Harshit Joshi**
-2nd Year, B.Tech CSIT, AKGEC
+-2nd Year, B.Tech CSIT, AKGEC
+<br>
 harshitjoshi1507@gmail.com
 <br>
 [GitHub](https://github.com/Harshit-tuf)
